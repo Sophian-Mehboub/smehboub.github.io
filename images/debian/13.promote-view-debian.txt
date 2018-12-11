@@ -1,2 +1,0 @@
-Les hosts attachés a cette environnement auront accès aux repositories dans la version promue à cette environnement.
-Si nous mettons a jour nos repos, il faudra en publier et la promovoir a cette environnement pour les hosts y aient accès.

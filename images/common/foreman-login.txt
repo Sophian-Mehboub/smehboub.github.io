@@ -1,1 +1,0 @@
-Une fois l'installation terminé, vous devriez voir la page de login. Ouf ca fonctionne ;-)

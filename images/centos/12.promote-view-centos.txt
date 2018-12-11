@@ -1,1 +1,0 @@
-Choissisez l'environnement pour lequel vous voulez publier cette version, cliquez ensuite sur le bouton Promovoir cette version
